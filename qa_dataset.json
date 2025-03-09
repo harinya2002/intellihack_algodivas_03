@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What is DeepSeek-R1?",
+        "answer": "DeepSeek-R1 is an LLM fine-tuned via reinforcement learning for reasoning tasks."
+    },
+    {
+        "question": "How does DeepSeek-R1-Zero differ from DeepSeek-R1?",
+        "answer": "DeepSeek-R1-Zero is trained purely with RL, whereas DeepSeek-R1 incorporates cold-start data and supervised fine-tuning."
+    }
+]
